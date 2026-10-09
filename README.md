@@ -1,6 +1,6 @@
- Employee Management System
+# Employee Management System
 
- Student Information
+## Student Information
 
 **Full Name:** Mariam Ahmed Gaafar
 
@@ -8,7 +8,7 @@
 
 ---
 
- Project Description
+## Project Description
 
 This project is a Java implementation of an Employee Management System based on the provided UML class diagram.
 
@@ -24,7 +24,7 @@ The Department class manages employees, searches for employees, removes employee
 
 ---
 
- Project Classes
+## Project Classes
 
 The project contains the following classes and enum:
 
@@ -37,7 +37,7 @@ The project contains the following classes and enum:
 
 ---
 
-Object-Oriented Programming Concepts
+## Object-Oriented Programming Concepts
 
 This project demonstrates:
 
@@ -54,9 +54,9 @@ This project demonstrates:
 
 ---
 
- Project Structure
+## Project Structure
 
-text
+```text
 EmployeeManagementSystem/
 │
 ├── README.md

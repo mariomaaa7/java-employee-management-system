@@ -56,7 +56,7 @@ This project demonstrates:
 
  Project Structure
 
-text
+```text
 EmployeeManagementSystem/
 │
 ├── README.md
